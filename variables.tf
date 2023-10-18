@@ -1,0 +1,14 @@
+variable "location" {}
+variable "resource_group_name" {}
+variable "tags" {}
+variable "asp_name_be" {}
+variable "asp_name_fe" {}
+variable "kind" {}
+variable "sku_size" {}
+variable "account_tier" {}
+variable "account_replication_type" {}
+variable "sa_name" {}
+variable "fn_name" {}
+variable "appi_name" {}
+variable "kv_name" {}
+variable "vnet_name" {}
